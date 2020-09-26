@@ -27,7 +27,7 @@ try:
 		target = input("\nType the target language: ").title()
 		target = lang_list.get(target, 'Language Not Available!')
 		word = input("\nEnter a word or a sentence to translate: ")
-		output = './trans ' + "'" + word + "'" + ' -t ' + target
+		output = './trans -b ' + "'" + word + "'" + ' -t ' + target
 		system('echo "\e[1;34m"')
 		system(output)
 		system('echo "\e[1;0m"')
