@@ -9,7 +9,7 @@ Just Python3
 # Usage
 - Clone this Repo using:
 `git clone https://github.com/SEKTION/Translator`
--Change Directory:
+- Change Directory:
 `cd Translator/`
--And run : 
+- And run : 
 `python3 translate.py`
