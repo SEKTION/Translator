@@ -1,7 +1,7 @@
 # Translator V1.0
 A python(implementing shell mostly) script for language translations
 
-This uses **Translate-Shell** tranlsating engine while simplifying the frontend CLI
+This uses **Translate-Shell** translating engine while simplifying the frontend CLI
 
 # Requirements
 Just Python3
