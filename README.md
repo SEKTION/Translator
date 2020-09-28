@@ -1,6 +1,7 @@
-# Translator V1.0
-A python (implementing shell code mostly) script for language translations
+# Translator V1.1
+## Author : SEKTION
 
+**A Python script for Language Translations**
 This uses [**Translate-Shell**](https://github.com/soimort/translate-shell) translating engine while simplifying the frontend CLI
 
 # Usage
@@ -9,4 +10,18 @@ This uses [**Translate-Shell**](https://github.com/soimort/translate-shell) tran
 - Change Directory:
 `cd Translator/`
 - And run : 
-`python3 translate.py`
+`sudo python3 translate.py` or `sudo ./translate.py`
+
+# Support
+**Currently supported distros are**
+- Ubuntu
+- Kali
+- Mint
+- Arch
+**And**
+- Termux
+
+Available Languages are in **lang.txt** file.
+You can add more languages by adding them to end of that text file in the following format:
+**Language-Code**
+e.g. `English-en`
