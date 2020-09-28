@@ -22,8 +22,10 @@ This uses [**Translate-Shell**](https://github.com/soimort/translate-shell) tran
 **And**
 - Termux
 
-Available Languages are in **lang.txt** file.
+
+Available Languages are in **langs.txt** file.
 You can add more languages by adding them to end of that text file in the following format:
 
 **Language-Code**
+
 e.g. `English-en`
