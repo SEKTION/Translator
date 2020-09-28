@@ -2,14 +2,18 @@
 ## Author : SEKTION
 
 **A Python script for Language Translations**
+
 This uses [**Translate-Shell**](https://github.com/soimort/translate-shell) translating engine while simplifying the frontend CLI
 
 # Usage
 - Clone this Repo using:
+
 `git clone https://github.com/SEKTION/Translator`
 - Change Directory:
+
 `cd Translator/`
-- And run : 
+- And Run the script by:
+
 `sudo python3 translate.py` or `sudo ./translate.py`
 
 # Support
