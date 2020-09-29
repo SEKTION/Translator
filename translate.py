@@ -12,12 +12,12 @@ try:
 
 	#Defining Color Variables
 
-	RED = sp.getoutput('tput setaf 9')
-	GREEN = sp.getoutput('tput setaf 10')
-	YELLOW = sp.getoutput('tput setaf 11')
-	BLUE = sp.getoutput('tput setaf 4')
-	CYAN = sp.getoutput('tput setaf 14')
-	WHITE = sp.getoutput('tput setaf 15')
+	RED = sp.getoutput('echo "\033[1;31m"')
+	GREEN = sp.getoutput('echo "\033[1;32m"')
+	YELLOW = sp.getoutput('echo "\033[1;33m"')
+	BLUE = sp.getoutput('echo "\033[1;34m"')
+	CYAN = sp.getoutput('echo "\033[1;36m"')
+	WHITE = sp.getoutput('echo "\033[1;37m"')
 
 
 	#Check Internet Connectivity
